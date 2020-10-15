@@ -35,7 +35,7 @@ const student2Obj = {
 
 /*
     We can create a constructor function. 
-    A constructor function is a function that will generate objects for us. 
+    A constructor function is a function that will construct and return an object with the given argument as value for each properties
 
     This way we don't have to recreate objects over and over. 
 */
